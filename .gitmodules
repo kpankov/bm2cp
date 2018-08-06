@@ -1,3 +1,6 @@
 [submodule "application/converter"]
 	path = application/converter
 	url = https://github.com/kpankov/BrandmeisterBaseConverter.git
+[submodule "application/components/smarty"]
+	path = application/components/smarty
+	url = http://github.com/smarty-php/smarty.git
